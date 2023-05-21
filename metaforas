@@ -13,8 +13,6 @@ Com a AWS, você pode acelerar sua inovação e ultrapassar a concorrência na v
 OU
 O Amazon EC2 é como um hotel de luxo na nuvem. Ele oferece quartos (instâncias) espaçosos e equipados com todas as comodidades que você precisa. O EC2 é o concierge do seu hotel, permitindo que você escolha o tamanho e a configuração do seu quarto, garantindo que você tenha um ambiente confortável e personalizado para hospedar sua aplicação."
 
-
-
 "Pense na AWS como uma cidade inteligente. O Amazon S3 é como um armazém de dados em grande escala, onde você pode armazenar tudo, desde arquivos pessoais até informações confidenciais de negócios.
 
 
@@ -58,7 +56,4 @@ O CloudFront é o mestre da logística, garantindo que suas pizzas sejam entregu
 6. Application Load Balancer:
 • "Pense no Application Load Balancer como um maestro habilidoso que conduz uma orquestra. Ele distribui as solicitações de tráfego (músicos) para as diferentes partes da sua aplicação (instrumentos) com equilíbrio e precisão. O Load Balancer é o regente da sua orquestra, garantindo que cada parte da sua aplicação tenha um desempenho harmonioso e equilibrado."
 
-
-
-#chatgpt
 <body>
