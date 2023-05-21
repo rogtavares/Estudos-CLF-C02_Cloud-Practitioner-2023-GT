@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2ffad83-5179-46a1-be26-4c3b35b6cf91" name="Changes" comment="commint 11v&#10;&#10;novo topico, meta profissional,">
+    <list default="true" id="d2ffad83-5179-46a1-be26-4c3b35b6cf91" name="Changes" comment="commint 14v&#10;&#10;subir, atraves do canal IJ">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="rogtavares &lt;rogerio@almeidatavares.com.br&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -68,11 +73,38 @@
       <option name="project" value="LOCAL" />
       <updated>1681698033171</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commint 11v&#10;&#10;novo topico, meta profissional,">
+      <created>1684701399330</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684701399330</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commint 14v&#10;&#10;subir, atraves do canal IJ">
+      <created>1684701768936</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684701768936</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commint 11v&#10;&#10;novo topico, meta profissional," />
-    <option name="LAST_COMMIT_MESSAGE" value="commint 11v&#10;&#10;novo topico, meta profissional," />
+    <MESSAGE value="commint 14v&#10;&#10;subir, atraves do canal IJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="commint 14v&#10;&#10;subir, atraves do canal IJ" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
