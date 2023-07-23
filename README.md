@@ -4,4 +4,5 @@ Estudos  sem enrolação, do básico ao avançado, para   passar na prova de cer
 
 
 
-![ARTE_36-AWS-GE T-2000X2000](https://user-images.githubusercontent.com/91990479/230777482-1ecb2bba-4101-4a63-9cee-bd77c8f76baf.jpg)
+
+![ARTE_36-AWS-GE T-2000X2000](https://github.com/rogtavares/Estudos-CLF-C01_Cloud-Practitioner-2023-GT/assets/91990479/795f2b32-ef9d-43c3-982c-755aee7c8e9c)
