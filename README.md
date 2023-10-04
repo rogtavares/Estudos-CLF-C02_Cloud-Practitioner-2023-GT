@@ -25,7 +25,7 @@ Análise:
 * AWS Management Console ,
 * AWS Organizations ,
 
-**((DADOS) AWS Data Exchange**
+**((DADOS )) AWS Data Exchange**
 * Amazon EMR ,
 * AWS Glue ,
 * Amazon Kinesis ,
@@ -68,8 +68,7 @@ Análise:
 * AWS Budgets (Orçamentos AWS)
 * AWS Cost and Usage Report (Relatório de custos e uso da AWS)
 * AWS Cost Explorer (Explorador de custos da AWS)
-* * AWS Marketplace
-
+* AWS Marketplace
 
 **Envolvimento do cliente:**
 * [AWS Support
@@ -102,10 +101,7 @@ Análise:
 
 
 
-
-
-
-RT.
+**RT.**
 
 
 
