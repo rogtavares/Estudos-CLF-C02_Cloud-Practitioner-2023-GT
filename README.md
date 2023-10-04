@@ -84,6 +84,7 @@ Quais são os tópicos e perguntas do exame CLF-C02 que precisa estudar?
 * AWS Neptune
 
 **Ferramentas de desenvolvimento:**
+
 * AWS AppConfig
 * CLI da AWS
 * Nuvem AWS9
@@ -95,10 +96,10 @@ Quais são os tópicos e perguntas do exame CLF-C02 que precisa estudar?
 * AWS Code Pipeline
 * AWS CodeStar
 
-  **Computação do usuário Final:**
+**Computação do usuário Final:**
 *   Amazon AppStream2.0
 *   Amazon WorkSpaces
-*   Site do Amazon WorkSpaces
+*   Amazon WorkSpaces
 
 **Front-end Web e Mobile:**
 
@@ -155,17 +156,17 @@ Quais são os tópicos e perguntas do exame CLF-C02 que precisa estudar?
 **Segurança, identidade e conformidade:**
 
 
-AWS Artifact
-AWS Audit Manager
-AWS Certificate Manager (ACM)
-AWS CloudHSM
-Amazon Cognito
-Amazon Detective
-AWS Directory Service
-AWS Firewall Manager
-Amazon GuardDuty
-AWS Identity and Access Management (IAM)
-AWS IAM Identity Center (AWS Single Sign-On)
+* AWS Artifact
+* AWS Audit Manager
+* AWS Certificate Manager (ACM)
+* AWS CloudHSM
+* Amazon Cognito
+* Amazon Detective
+* AWS Directory Service
+* AWS Firewall Manager
+* Amazon GuardDuty
+* AWS Identity and Access Management (IAM)
+* AWS IAM Identity Center (AWS Single Sign-On)
 * Amazon Inspector
 * AWS Key Management Service (AWS KMS)
 * Amazon Macie
@@ -175,7 +176,6 @@ AWS IAM Identity Center (AWS Single Sign-On)
 * AWS Security Hub
 * AWS Shield
 * AWS WAF
-
 
 
 **Sem servidor:(Serverless:)**
