@@ -40,6 +40,29 @@ Serviço de notificação simples da Amazon (Amazon SNS) ,
 Serviço de fila simples da Amazon (Amazon SQS) ,
 AWS Step Functions  (fornece orquestração sem servidor para aplicativos modernos)` ,
 
+**Produtividade Empresarial:**
+__Amazon Connect ,
+Serviço de e-mail simples da Amazon (Amazon SES),__
+
+
+**Computer :**
+
+Batch AWS ,
+___Amazon EC2 ,
+AWS Elastic Beanstalk ,
+Amazon Lightsail ,
+Zonas locais da AWS ,
+AWS Outposts (Postos avançados da AWS) ,_
+AWS Wavelength (Comprimento de onda AWS),__
+
+
+
+
+
+
+
+
+
 
 
 
