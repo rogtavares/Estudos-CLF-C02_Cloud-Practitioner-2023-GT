@@ -12,49 +12,69 @@ Análise:
 **Amazon Atenas**
 
 **Gestão e Governança:**
-`AWS Auto Scaling (Escalonamento automático da AWS) ,
-AWS CloudFormation,
-AWS CloudTrail .
-Amazon CloudWatch .
-AWS Compute Optimizer .
-AWS Config ,
-AWS Control Tower ,
-AWS Health Dashboard ,
-AWS Launch Wizard ,
-AWS License Manager ,
-AWS Management Console ,
-AWS Organizations ,
+* `AWS Auto Scaling (Escalonamento automático da AWS) ,
+* AWS CloudFormation,
+* AWS CloudTrail .
+* Amazon CloudWatch .
+* AWS Compute Optimizer .
+* AWS Config ,
+* AWS Control Tower ,
+* AWS Health Dashboard ,
+* AWS Launch Wizard ,
+* AWS License Manager ,
+* AWS Management Console ,
+* AWS Organizations ,
 
 **((DADOS) AWS Data Exchange**
-`Amazon EMR ,
-AWS Glue ,
-Amazon Kinesis ,
-Amazon Managed Streaming para Apache Kafka (Amazon MSK) ,
-Serviço Amazon OpenSearch ,
-AmazonQuickSight ,
-Redshift da Amazon` ,
+* Amazon EMR ,
+* AWS Glue ,
+* Amazon Kinesis ,
+* Amazon Managed Streaming para Apache Kafka (Amazon MSK) ,
+* Serviço Amazon OpenSearch ,
+* AmazonQuickSight ,
+* Redshift da Amazon` 
 
 **Application Integration: Integração de aplicativos:**
-`Amazon Event Bridge ,
-Serviço de notificação simples da Amazon (Amazon SNS) ,
-Serviço de fila simples da Amazon (Amazon SQS) ,
-AWS Step Functions  (fornece orquestração sem servidor para aplicativos modernos)` ,
+* Amazon Event Bridge ,
+* Serviço de notificação simples da Amazon (Amazon SNS) ,
+* Serviço de fila simples da Amazon (Amazon SQS) ,
+* AWS Step Functions  (fornece orquestração sem servidor para aplicativos modernos)` ,
 
 **Produtividade Empresarial:**
-__Amazon Connect ,
-Serviço de e-mail simples da Amazon (Amazon SES),__
+* Amazon Connect ,
+* Serviço de e-mail simples da Amazon (Amazon SES),
 
 
 **Computer :**
 
-Batch AWS ,
-___Amazon EC2 ,
-AWS Elastic Beanstalk ,
-Amazon Lightsail ,
-Zonas locais da AWS ,
-AWS Outposts (Postos avançados da AWS) ,_
-AWS Wavelength (Comprimento de onda AWS),__
+* Batch AWS ,
+* Amazon EC2 ,
+* AWS Elastic Beanstalk ,
+* Amazon Lightsail ,
+* Zonas locais da AWS ,
+* AWS Outposts (Postos avançados da AWS) ,
+* AWS Wavelength (Comprimento de onda AWS),
 
+**Containers:**
+
+* Amazon Elastic Container Registry (Amazon ECR)
+* Amazon Elastic Container Service (Amazon ECS)
+* Serviço Amazon Elastic Kubernetes (Amazon EKS)
+
+
+
+**Gestão de Custos:**
+* AWS Billing Conductor (Condutor de faturamento da AWS) estimativa de custo.
+* AWS Budgets (Orçamentos AWS)
+* AWS Cost and Usage Report (Relatório de custos e uso da AWS)
+* AWS Cost Explorer (Explorador de custos da AWS)
+* * AWS Marketplace
+
+
+**Envolvimento do cliente:**
+[AWS Support
+AWS IQ
+AWS Managed Services (AMS) (Serviços gerenciados da AWS)]()
 
 
 
