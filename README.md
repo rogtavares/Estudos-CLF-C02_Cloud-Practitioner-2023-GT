@@ -72,10 +72,28 @@ Análise:
 
 
 **Envolvimento do cliente:**
-[AWS Support
-AWS IQ
-AWS Managed Services (AMS) (Serviços gerenciados da AWS)]()
+* [AWS Support
+* AWS IQ
+* AWS Managed Services (AMS) (Serviços gerenciados da AWS) 
 
+**Database:**
+* Amazon RDS
+* Amazônia Aurora
+* Amazon DynamoDB
+* Amazon MemoryDB para Redis
+* Amazon Netuno
+
+**Ferramentas de desenvolvimento:**
+* AWS AppConfig
+* CLI da AWS
+* Nuvem AWS9
+* AWS CloudShell
+* AWS CodeArtifact
+* AWS CodeBuild
+* AWS CodeCommit
+* AWS CodeDeploy
+* AWS Code Pipeline
+* AWS CodeStar
 
 
 
