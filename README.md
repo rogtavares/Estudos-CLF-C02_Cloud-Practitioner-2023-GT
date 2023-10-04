@@ -9,9 +9,9 @@ Quais são os tópicos e perguntas do exame CLF-C02 que precisa estudar?
 
 
 Análise:
-Amazon Atenas
+**Amazon Atenas**
 
-Gestão e Governança:
+**Gestão e Governança:**
 AWS Auto Scaling (Escalonamento automático da AWS)
 AWS CloudFormation
 AWS CloudTrail
@@ -24,6 +24,16 @@ AWS Launch Wizard
 AWS License Manager
 AWS Management Console
 AWS Organizations
+
+**((DADOS) AWS Data Exchange**
+Amazon EMR
+AWS Glue
+Amazon Kinesis
+Amazon Managed Streaming para Apache Kafka (Amazon MSK)
+Serviço Amazon OpenSearch
+AmazonQuickSight
+Redshift da Amazon
+
 
 
 
