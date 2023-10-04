@@ -8,8 +8,9 @@ Estudos  para os exames de  certificação AWS  CLF-C02
 Quais são os tópicos e perguntas do exame CLF-C02 que precisa estudar? 
 
 
-Análise:
-**Amazon Atenas**
+**Análise:**
+* Amazon Athena 
+
 
 **Gestão e Governança:**
 * `AWS Auto Scaling (Escalonamento automático da AWS) ,
@@ -25,7 +26,7 @@ Análise:
 * AWS Management Console ,
 * AWS Organizations ,
 
-**((DADOS )) AWS Data Exchange**
+**((DADOS ) AWS Data Exchange**
 * Amazon EMR ,
 * AWS Glue ,
 * Amazon Kinesis ,
@@ -80,7 +81,7 @@ Análise:
 * Amazônia Aurora
 * Amazon DynamoDB
 * Amazon MemoryDB para Redis
-* Amazon Netuno
+* AWS Neptune
 
 **Ferramentas de desenvolvimento:**
 * AWS AppConfig
@@ -94,8 +95,105 @@ Análise:
 * AWS Code Pipeline
 * AWS CodeStar
 
+  **Computação do usuário Final:**
+*   Amazon AppStream2.0
+*   Amazon WorkSpaces
+*   Site do Amazon WorkSpaces
+
+**Front-end Web e Mobile:**
+
+* AWS Amplificar
+* AWS AppSync
+* Fazenda de dispositivos AWS
+
+**Internet das Coisas (IoT):**
+* AWS IoT Core
+* AWS IoT Greengrass
 
 
+**Machine Learning:**
+
+* Amazon Comprehend ((Compreender))
+* Amazona Kendra
+* Amazon Lex
+* Amazon Polly
+* Amazon Rekognition  (Reconhecimento)
+* Amazon Sage Maker
+* Amazon Textract
+* Amazon Transcribe  (Transcrição)
+* Amazon Translate  (Tradutor)
+
+
+**Grupos de recursos e editor de tags da AWS**
+
+* AWS Service Catalog
+* AWS Systems Manager
+* AWS Trusted Advisor
+* AWS Well-Architected Tool
+
+**Migração e Transferência:**
+
+* AWS Application Discovery Service
+* AWS Application Migration Service
+* AWS Database Migration Service (AWS DMS)
+* AWS Migration Hub
+* AWS Schema Conversion Tool (AWS SCT)
+* AWS Snow Family
+* AWS Transfer Family
+
+**Rede e entrega de conteúdo:**
+
+* Amazon API Gateway
+* Amazon CloudFront
+* AWS Direct Connect
+* AWS Global Accelerator
+* Amazon Route 53
+* Amazon VPC
+* AWS VPN
+
+
+**Segurança, identidade e conformidade:**
+
+
+AWS Artifact
+AWS Audit Manager
+AWS Certificate Manager (ACM)
+AWS CloudHSM
+Amazon Cognito
+Amazon Detective
+AWS Directory Service
+AWS Firewall Manager
+Amazon GuardDuty
+AWS Identity and Access Management (IAM)
+AWS IAM Identity Center (AWS Single Sign-On)
+* Amazon Inspector
+* AWS Key Management Service (AWS KMS)
+* Amazon Macie
+* AWS Network Firewall
+* AWS Resource Access Manager (AWS RAM)
+* AWS Secrets Manager
+* AWS Security Hub
+* AWS Shield
+* AWS WAF
+
+
+
+**Sem servidor:(Serverless:)**
+
+* AWS Fargate
+* AWS Lambda
+
+
+**Armazenamento Storage:**
+
+* AWS Backup
+* Amazon Elastic Block Store (Amazon EBS)
+* Amazon Elastic File System (Amazon EFS)
+* AWS Elastic Disaster Recovery
+* Amazon FSx
+* Amazon S3
+* Amazon S3 Glacier
+* AWS Storage Gateway
 
 
 
