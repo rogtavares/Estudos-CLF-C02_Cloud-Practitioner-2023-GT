@@ -12,7 +12,7 @@ Análise:
 **Amazon Atenas**
 
 **Gestão e Governança:**
-AWS Auto Scaling (Escalonamento automático da AWS)
+`AWS Auto Scaling (Escalonamento automático da AWS)
 AWS CloudFormation
 AWS CloudTrail
 Amazon CloudWatch
@@ -23,16 +23,23 @@ AWS Health Dashboard
 AWS Launch Wizard
 AWS License Manager
 AWS Management Console
-AWS Organizations
+AWS Organizations`
 
 **((DADOS) AWS Data Exchange**
-Amazon EMR
+`Amazon EMR
 AWS Glue
 Amazon Kinesis
 Amazon Managed Streaming para Apache Kafka (Amazon MSK)
 Serviço Amazon OpenSearch
 AmazonQuickSight
-Redshift da Amazon
+Redshift da Amazon`
+
+**Application Integration: Integração de aplicativos:**
+`Amazon Event Bridge
+Serviço de notificação simples da Amazon (Amazon SNS)
+Serviço de fila simples da Amazon (Amazon SQS)
+AWS Step Functions  (fornece orquestração sem servidor para aplicativos modernos)`
+
 
 
 
