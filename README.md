@@ -8,52 +8,60 @@ Quais são os tópicos e perguntas do exame **CLF-C02** que precisa estudar?
 
 
 **Análise:**
-* Amazon Athena 
+* Amazon Athena
+*  AWS Data Exchange
+* Amazon EMR
+* AWS Glue
+* Amazon Kinesis
+* Amazon Managed Streaming for Apache Kafka (Amazon MSK)
+* Amazon OpenSearch Service
+* Amazon QuickSight
+* Amazon Redshift
+
+**Aplicações empresariais:**
+* Amazon Connect
+* Amazon Simple Email Service (Amazon SES)
+
+**Integração de aplicativos:**
+* Amazon EventBridge
+* Amazon Simple Notification Service (Amazon SNS)
+* Amazon Simple Queue Service (Amazon SQS)
+* AWS Step Functions
+
+**Cloud Financial Management:**
+* AWS Billing Conductor
+* AWS Budgets
+* AWS relatório de uso e custo
+* AWS Cost Explorer
+* AWS Marketplace
+
+
+**Computação:**
+* AWS Batch
+* Amazon EC2
+* AWS Elastic Beanstalk
+* Amazon Lightsail
+* Zonas Locais da AWS
+* AWS Outposts
+* AWS Wavelength
+
 
 
 **Gestão e Governança:**
-* `AWS Auto Scaling (Escalonamento automático da AWS) ,
-* AWS CloudFormation,
-* AWS CloudTrail .
-* Amazon CloudWatch .
-* AWS Compute Optimizer .
-* AWS Config ,
-* AWS Control Tower ,
-* AWS Health Dashboard ,
-* AWS Launch Wizard ,
-* AWS License Manager ,
-* AWS Management Console ,
-* AWS Organizations ,
-
-**((DADOS ) AWS Data Exchange**
-* Amazon EMR ,
-* AWS Glue ,
-* Amazon Kinesis ,
-* Amazon Managed Streaming para Apache Kafka (Amazon MSK) ,
-* Serviço Amazon OpenSearch ,
-* AmazonQuickSight ,
-* Redshift da Amazon` 
-
-**Application Integration: Integração de aplicativos:**
-* Amazon Event Bridge ,
-* Serviço de notificação simples da Amazon (Amazon SNS) ,
-* Serviço de fila simples da Amazon (Amazon SQS) ,
-* AWS Step Functions  (fornece orquestração sem servidor para aplicativos modernos)` ,
-
-**Produtividade Empresarial:**
-* Amazon Connect ,
-* Serviço de e-mail simples da Amazon (Amazon SES),
+* AWS Auto Scaling (Escalonamento automático da AWS)
+* AWS CloudFormation
+* AWS CloudTrail
+* Amazon CloudWatch
+* AWS Compute Optimizer
+* AWS Config
+* AWS Control Tower
+* AWS Health Dashboard
+* AWS Launch Wizard
+* AWS License Manager
+* AWS Management Console
+* AWS Organizations
 
 
-**Computer :**
-
-* Batch AWS ,
-* Amazon EC2 ,
-* AWS Elastic Beanstalk ,
-* Amazon Lightsail ,
-* Zonas locais da AWS ,
-* AWS Outposts (Postos avançados da AWS) ,
-* AWS Wavelength (Comprimento de onda AWS),
 
 **Containers:**
 
@@ -62,28 +70,27 @@ Quais são os tópicos e perguntas do exame **CLF-C02** que precisa estudar?
 * Serviço Amazon Elastic Kubernetes (Amazon EKS)
 
 
+**Interação com os clientes:**
+* AWS Activate para startups
+* AWS IQ
+* AWS Managed Services (AMS)
+* AWS Support
 
-**Gestão de Custos:**
-* AWS Billing Conductor (Condutor de faturamento da AWS) estimativa de custo.
-* AWS Budgets (Orçamentos AWS)
-* AWS Cost and Usage Report (Relatório de custos e uso da AWS)
-* AWS Cost Explorer (Explorador de custos da AWS)
-* AWS Marketplace
 
 **Envolvimento do cliente:**
-* [AWS Support
+* AWS Support
 * AWS IQ
-* AWS Managed Services (AMS) (Serviços gerenciados da AWS) 
+* AWS Managed Services (AMS) (Serviços gerenciados da AWS)
+
 
 **Database:**
 * Amazon RDS
 * Amazônia Aurora
 * Amazon DynamoDB
 * Amazon MemoryDB para Redis
-* AWS Neptune
+* Amazon Neptune
 
 **Ferramentas de desenvolvimento:**
-
 * AWS AppConfig
 * CLI da AWS
 * Nuvem AWS9
@@ -94,17 +101,20 @@ Quais são os tópicos e perguntas do exame **CLF-C02** que precisa estudar?
 * AWS CodeDeploy
 * AWS Code Pipeline
 * AWS CodeStar
+* Raio X da AWS
 
-**Computação do usuário Final:**
-*   Amazon AppStream2.0
-*   Amazon WorkSpaces
-*   Amazon WorkSpaces
 
-**Front-end Web e Mobile:**
+**Computação do usuário final:**
+* Amazon AppStream2.0
+* Amazon WorkSpaces
+* Site do Amazon WorkSpaces
 
-* AWS Amplificar
+**Web e dispositivos móveis de Front-end:**
+
+* AWS Amplify
 * AWS AppSync
-* Fazenda de dispositivos AWS
+* AWS Device Farm
+
 
 **Internet das Coisas (IoT):**
 * AWS IoT Core
@@ -124,12 +134,27 @@ Quais são os tópicos e perguntas do exame **CLF-C02** que precisa estudar?
 * Amazon Translate  (Tradutor)
 
 
-**Grupos de recursos e editor de tags da AWS**
+**Gerenciamento e governança:**
+* AWS Auto Scaling
+* AWS CloudFormation
+* AWS CloudTrail
+* Amazon CloudWatch
+* AWS Compute Optimizer
+* AWS Config
+* AWS Control Tower
+* AWS Health Dashboard
+* AWS Launch Wizard
+* AWS License Manager
 
+
+**Console de gerenciamento da AWS**
+* AWS Organizations
+* AWS Resource Groups e Tag Editor
 * AWS Service Catalog
 * AWS Systems Manager
 * AWS Trusted Advisor
-* AWS Well-Architected Tool
+* •Ferramenta do AWS Well-Architected
+
 
 **Migração e Transferência:**
 
@@ -150,6 +175,7 @@ Quais são os tópicos e perguntas do exame **CLF-C02** que precisa estudar?
 * Amazon Route 53
 * Amazon VPC
 * AWS VPN
+
 
 
 **Segurança, identidade e conformidade:**
@@ -175,6 +201,7 @@ Quais são os tópicos e perguntas do exame **CLF-C02** que precisa estudar?
 * AWS Security Hub
 * AWS Shield
 * AWS WAF
+* 
 
 
 **Sem servidor:(Serverless:)**
@@ -193,6 +220,13 @@ Quais são os tópicos e perguntas do exame **CLF-C02** que precisa estudar?
 * Amazon S3
 * Amazon S3 Glacier
 * AWS Storage Gateway
+
+
+**Robótica:**
+* AWS RoboMaker
+
+
+
 
 
 
