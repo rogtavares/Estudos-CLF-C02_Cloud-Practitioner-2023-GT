@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2ffad83-5179-46a1-be26-4c3b35b6cf91" name="Changes" comment="commint 14v&#10;&#10;subir, atraves do canal IJ">
+    <list default="true" id="d2ffad83-5179-46a1-be26-4c3b35b6cf91" name="Changes" comment="COMMIT V86&#10;&#10;nova comunicacao via intellij">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +29,22 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="2850929a-16ca-46f4-a1ae-db3f8c116626" />
+        <option name="url" value="https://github.com/rogtavares/Estudos-CLF-C02_Cloud-Practitioner-2023-GT.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="3jevh6pk" />
@@ -92,7 +108,23 @@
       <option name="project" value="LOCAL" />
       <updated>1684701768936</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="COMMIT V86&#10;&#10;nova comunicacao via intellij">
+      <option name="closed" value="true" />
+      <created>1700301985798</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700301985798</updated>
+    </task>
+    <task id="LOCAL-00006" summary="COMMIT V86&#10;&#10;nova comunicacao via intellij">
+      <option name="closed" value="true" />
+      <created>1700302006927</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700302006927</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,7 +132,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -109,7 +147,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commint 11v&#10;&#10;novo topico, meta profissional," />
     <MESSAGE value="commint 14v&#10;&#10;subir, atraves do canal IJ" />
-    <option name="LAST_COMMIT_MESSAGE" value="commint 14v&#10;&#10;subir, atraves do canal IJ" />
+    <MESSAGE value="COMMIT V86&#10;&#10;nova comunicacao via intellij" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMMIT V86&#10;&#10;nova comunicacao via intellij" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
