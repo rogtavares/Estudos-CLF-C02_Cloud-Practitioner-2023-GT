@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2ffad83-5179-46a1-be26-4c3b35b6cf91" name="Changes" comment="COMMIT V91">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d2ffad83-5179-46a1-be26-4c3b35b6cf91" name="Changes" comment="COMMIT V92&#10;&#10;0.1.0.0_MM v_51" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701686596891</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="COMMIT V92&#10;&#10;0.1.0.0_MM v_51">
+      <option name="closed" value="true" />
+      <created>1702159117621</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1702159117621</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,7 +231,8 @@
     <MESSAGE value="COMMIT V89&#10;&#10;v47" />
     <MESSAGE value="COMMIT V90v +8main" />
     <MESSAGE value="COMMIT V91" />
-    <option name="LAST_COMMIT_MESSAGE" value="COMMIT V91" />
+    <MESSAGE value="COMMIT V92&#10;&#10;0.1.0.0_MM v_51" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMMIT V92&#10;&#10;0.1.0.0_MM v_51" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
