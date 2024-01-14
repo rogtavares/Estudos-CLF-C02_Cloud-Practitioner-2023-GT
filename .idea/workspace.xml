@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2ffad83-5179-46a1-be26-4c3b35b6cf91" name="Changes" comment="COMMIT V99&#10;&#10;resumao ge v1" />
+    <list default="true" id="d2ffad83-5179-46a1-be26-4c3b35b6cf91" name="Changes" comment="COMMIT V100&#10;&#10;resumao ge v2 w DAN08">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Empty Mind Map" />
       </list>
     </option>
   </component>
@@ -69,7 +72,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -269,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704666669767</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="COMMIT V100&#10;&#10;resumao ge v2 w DAN08">
+      <option name="closed" value="true" />
+      <created>1704666852651</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1704666852651</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -306,7 +317,8 @@
     <MESSAGE value="COMMIT V97&#10;&#10;0.1.0.0_MM v_55" />
     <MESSAGE value="COMMIT V98&#10;&#10;0.1.0.0_MM v_56" />
     <MESSAGE value="COMMIT V99&#10;&#10;resumao ge v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="COMMIT V99&#10;&#10;resumao ge v1" />
+    <MESSAGE value="COMMIT V100&#10;&#10;resumao ge v2 w DAN08" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMMIT V100&#10;&#10;resumao ge v2 w DAN08" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
