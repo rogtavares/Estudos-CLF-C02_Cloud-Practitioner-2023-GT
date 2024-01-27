@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2ffad83-5179-46a1-be26-4c3b35b6cf91" name="Changes" comment="COMMIT V108&#10;&#10;MUDANÇAS ALGORITMOS.">
-      <change beforePath="$PROJECT_DIR$/VPN_0.2.0.0.0.0.0 PEERING DE  RESUMAO  VPN.pdf" beforeDir="false" />
+    <list default="true" id="d2ffad83-5179-46a1-be26-4c3b35b6cf91" name="Changes" comment="COMMIT V110&#10;&#10;ARRUMEI DADOS">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.0.0.0_Mapa mental_PALAVRAS CHAVES v_60.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -312,7 +313,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705880386673</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="COMMIT V110&#10;&#10;ARRUMEI DADOS">
+      <option name="closed" value="true" />
+      <created>1706313517769</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1706313517769</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -354,7 +363,8 @@
     <MESSAGE value="COMMIT V106&#10;&#10;UPGRADE V3" />
     <MESSAGE value="COMMIT V107&#10;&#10;0.1.0.0.0.0.0 VPN  RESUMAO V4" />
     <MESSAGE value="COMMIT V108&#10;&#10;MUDANÇAS ALGORITMOS." />
-    <option name="LAST_COMMIT_MESSAGE" value="COMMIT V108&#10;&#10;MUDANÇAS ALGORITMOS." />
+    <MESSAGE value="COMMIT V110&#10;&#10;ARRUMEI DADOS" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMMIT V110&#10;&#10;ARRUMEI DADOS" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
