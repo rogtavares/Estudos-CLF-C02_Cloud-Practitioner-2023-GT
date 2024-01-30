@@ -230,8 +230,6 @@ Quais são os tópicos e perguntas do exame **CLF-C02** que precisa estudar?
 
 
 
-
-
 **RT.**
 
 
