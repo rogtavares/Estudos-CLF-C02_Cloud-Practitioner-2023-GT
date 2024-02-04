@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2ffad83-5179-46a1-be26-4c3b35b6cf91" name="Changes" comment="COMMIT V112&#10;&#10;7_topicos">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.0.0.0_Mapa mental_PALAVRAS CHAVES v_61.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="d2ffad83-5179-46a1-be26-4c3b35b6cf91" name="Changes" comment="COMMIT V113&#10;&#10;MM62 2 BID DATA" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -338,7 +334,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706481748878</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="COMMIT V113&#10;&#10;MM62 2 BID DATA">
+      <option name="closed" value="true" />
+      <created>1706613187528</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1706613187528</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -383,7 +387,8 @@
     <MESSAGE value="COMMIT V110&#10;&#10;ARRUMEI DADOS" />
     <MESSAGE value="COMMIT V111&#10;&#10;MM78" />
     <MESSAGE value="COMMIT V112&#10;&#10;7_topicos" />
-    <option name="LAST_COMMIT_MESSAGE" value="COMMIT V112&#10;&#10;7_topicos" />
+    <MESSAGE value="COMMIT V113&#10;&#10;MM62 2 BID DATA" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMMIT V113&#10;&#10;MM62 2 BID DATA" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
