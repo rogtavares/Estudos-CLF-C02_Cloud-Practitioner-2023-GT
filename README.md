@@ -212,13 +212,13 @@ Quais são os tópicos e perguntas do exame **CLF-C02** que precisa estudar?
 
 **Armazenamento Storage:**
 
+* Amazon S3
+* Amazon S3 Glacier
 * AWS Backup
 * Amazon Elastic Block Store (Amazon EBS)
 * Amazon Elastic File System (Amazon EFS)
 * AWS Elastic Disaster Recovery
 * Amazon FSx
-* Amazon S3
-* Amazon S3 Glacier
 * AWS Storage Gateway
 
 
