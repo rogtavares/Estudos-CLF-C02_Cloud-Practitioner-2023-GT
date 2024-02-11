@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2ffad83-5179-46a1-be26-4c3b35b6cf91" name="Changes" comment="COMMIT V114&#10;&#10;MM63" />
+    <list default="true" id="d2ffad83-5179-46a1-be26-4c3b35b6cf91" name="Changes" comment="COMMIT V116&#10;&#10;MM65" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -350,7 +350,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707084188720</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="COMMIT V115&#10;&#10;MM64">
+      <option name="closed" value="true" />
+      <created>1707386633892</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1707386633892</updated>
+    </task>
+    <task id="LOCAL-00036" summary="COMMIT V116&#10;&#10;MM65">
+      <option name="closed" value="true" />
+      <created>1707391369508</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1707391369508</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -371,8 +387,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commint 14v&#10;&#10;subir, atraves do canal IJ" />
-    <MESSAGE value="COMMIT V86&#10;&#10;nova comunicacao via intellij" />
     <MESSAGE value="COMMIT V87&#10;&#10;v45" />
     <MESSAGE value="COMMIT V88&#10;&#10;v46" />
     <MESSAGE value="COMMIT V89&#10;&#10;v47" />
@@ -396,7 +410,9 @@
     <MESSAGE value="COMMIT V112&#10;&#10;7_topicos" />
     <MESSAGE value="COMMIT V113&#10;&#10;MM62 2 BID DATA" />
     <MESSAGE value="COMMIT V114&#10;&#10;MM63" />
-    <option name="LAST_COMMIT_MESSAGE" value="COMMIT V114&#10;&#10;MM63" />
+    <MESSAGE value="COMMIT V115&#10;&#10;MM64" />
+    <MESSAGE value="COMMIT V116&#10;&#10;MM65" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMMIT V116&#10;&#10;MM65" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
